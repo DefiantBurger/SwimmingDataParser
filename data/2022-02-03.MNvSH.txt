@@ -1,0 +1,448 @@
+                   Marple_Newtown at Strath_Haven - 2/3/2022                   
+                                    Results                                    
+ 
+Event 1  Girls 200 Yard Medley Relay
+===============================================================================
+              1:53.50  D1-C
+    School                                         Seed     Finals       Points 
+===============================================================================
+  1 Marple_Newtown  'A'                         2:02.93    2:03.75          8  
+     1) Snyder, Katie 9                 2) Markakis, Gia 12               
+     3) Babaian, Sella 11               4) Pastris, Alexandra 12          
+  2 Strath_Haven  'A'                           1:54.48    2:07.72          4  
+     1) Smith, Riley 9                  2) Caywood, Charlotte 12          
+     3) Brown, Paige 12                 4) Hill, Lila 10                  
+  3 Strath_Haven  'B'                                NT    2:16.92          2  
+     1) McManus, Caitlin 11             2) Karpyn, Lauren 12              
+     3) Gianolpulos, Georgia 11         4) Pita, Lydia 11                 
+  4 Strath_Haven  'C'                                NT   x2:24.45        
+     1) Orsetti, Adelaide 11            2) Montague, Kelly 9              
+     3) Kersun, Sophie 11               4) Dunning, Amelia 12             
+  5 Marple_Newtown  'B'                              NT    2:25.90        
+     1) Nakati, Ariana 10               2) Geranios, Lia 11               
+     3) Dimos, Olia 10                  4) Impriano, Madilyn 10           
+ 
+Event 2  Boys 200 Yard Medley Relay
+===============================================================================
+              1:43.00  D1-C
+    School                                         Seed     Finals       Points 
+===============================================================================
+  1 Strath_Haven High School  'A'               1:50.38    1:46.59          8  
+     1) Roberts, Ethan 12               2) Rice, Evan 12                  
+     3) Hyzer, Harry 11                 4) Shankweiler, Charlie 12        
+  2 Marple_Newtown  'A'                         1:52.27    1:52.84          4  
+     1) Yeakle, Tate 11                 2) Glancey, Dennis 12             
+     3) Impriano, Luke 12               4) Droesser, Patrick 9            
+  3 Strath_Haven High School  'B'                    NT    1:54.71          2  
+     1) Detweiler, Charlie 9            2) Mancini, Mac 12                
+     3) Brennan, Owen 11                4) Soeiro, Jamison 11             
+  4 Marple_Newtown  'B'                              NT    2:03.77        
+     1) DeMattei, Mikey 11              2) Bothma, Kaden 10               
+     3) Carty, Shane 9                  4) Dalton, Gavin 9                
+  5 Strath_Haven High School  'C'                    NT   x2:06.56        
+     1) Thomas, Gabe 11                 2) Murphy, Sean 12                
+     3) Gillespie, Sean 11              4) Lynch, Joe 10                  
+  6 Marple_Newtown  'C'                              NT   x2:18.03        
+     1) Fonseca, Bejamin 11             2) Bassoline, Chris 11            
+     3) Burns, Tyler 11                 4) Koulas, Alex 9                 
+ 
+Event 3  Girls 200 Yard Freestyle
+===============================================================================
+              2:02.50  D1-C
+              2:11.60  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Shifflett, Ella     11 Strath_Haven         2:02.77    2:06.01 CAL      6  
+  2 Markakis, Gia       12 Marple_Newtown                   1:59.06    2:12.45          4  
+  3 Snyder, Katie        9 Marple_Newtown                   2:12.94    2:14.44          3  
+  4 Taylor, Whitney      9 Strath_Haven         2:23.89    2:18.83          2  
+  5 Whitehead, Cate      9 Strath_Haven         2:31.27    2:29.59          1  
+  6 Miller, Kimberly    10 Marple_Newtown                   3:06.68    3:08.05        
+ 
+Event 4  Boys 200 Yard Freestyle
+===============================================================================
+              1:52.00  D1-C
+              2:01.50  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Ivanovic, Alexande  11 Strath_Haven              NT    1:54.99 CAL      6  
+  2 Koulas, Vasili      11 Marple_Newtown                   2:00.00    2:04.74          4  
+  3 Celebre, Emilio      9 Strath_Haven              NT    2:06.50          3  
+  4 Bothma, Kaden       10 Marple_Newtown                   2:05.67    2:07.39          2  
+  5 Mahoney, Cole        9 Strath_Haven              NT    2:15.18          1  
+  6 Fonseca, Bejamin    11 Marple_Newtown                   2:41.28    2:45.18        
+ 
+Event 5  Girls 200 Yard IM
+===============================================================================
+              2:18.80  D1-C
+              2:30.20  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Bergstrom, Sydney   12 Strath_Haven         2:12.33    2:19.46 CAL      6  
+  2 McCarthy, Diane     11 Marple_Newtown                   2:35.07    2:34.69          4  
+  3 Schofield, Abbey     9 Strath_Haven         2:34.68    2:35.40          3  
+  4 Impriano, Madilyn   10 Marple_Newtown                        NT    2:46.04          2  
+  5 Pita, Lydia         11 Strath_Haven         2:54.19    2:55.61          1  
+ 
+Event 6  Boys 200 Yard IM
+===============================================================================
+              2:07.50  D1-C
+              2:19.00  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Shifflett, Gavin     9 Strath_Haven              NT    2:02.82 D1-C     6  
+  2 Chieffo, Brian      11 Strath_Haven         2:19.11    2:14.29 CAL      4  
+  3 Glancey, Dennis     12 Marple_Newtown                   2:14.81    2:20.02          3  
+  4 DeMattei, Mikey     11 Marple_Newtown                   2:26.75    2:31.77          2  
+  5 Stratton, Henry      9 Marple_Newtown                   2:52.61    2:57.24          1  
+ -- Detweiler, Charlie   9 Strath_Haven              NT         DQ        
+ 
+Event 7  Girls 50 Yard Freestyle
+===============================================================================
+                25.65  D1-C
+                27.30  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Hill, Lila          10 Strath_Haven           28.17      27.50          6  
+  2 Babaian, Sella      11 Marple_Newtown                     27.96      27.96          4  
+  3 Reuther, Amelia     12 Strath_Haven           27.38      28.17          3  
+  4 Finn, Kierstyn      10 Marple_Newtown                     28.77      28.83          2  
+  5 Cavanagh, Mallory    9 Strath_Haven           31.18      29.13          1  
+  6 Nakati, Ariana      10 Marple_Newtown                     32.83      32.43        
+ 
+Event 8  Boys 50 Yard Freestyle
+===============================================================================
+                23.20  D1-C
+                24.30  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Shankweiler, Charl  12 Strath_Haven           23.21      23.53 CAL      6  
+  2 Plunkett, Noah       9 Strath_Haven           24.45      24.15 CAL      4  
+  3 Yeakle, Tate        11 Marple_Newtown                     23.99      24.29 CAL      3  
+  4 Impriano, Luke      12 Marple_Newtown                     24.38      24.89          2  
+  5 Soeiro, Jamison     11 Strath_Haven              NT      25.03          1  
+  6 Murray, Ryan        11 Marple_Newtown                     30.30      29.21        
+ 
+Event 9  Girls 1 mtr Diving
+===============================================================================
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Pastris, Alexandra  12 Marple_Newtown                    316.60     301.05          6  
+  2 Behl, Delaney        9 Marple_Newtown                    184.20     193.10          4  
+  3 Mahoney, Amanda     12 Marple_Newtown                    163.40     148.45          3  
+  4 Caywood, Charlotte  12 Strath_Haven          200.85     147.60          2  
+  5 Montague, Kelly      9 Strath_Haven           99.45     118.95          1  
+ -- Kuzemka, Layla      10 Strath_Haven           96.65         DQ        
+ 
+Event 10  Boys 1 mtr Diving
+===============================================================================
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 D'Angelo, Ethan      9 Marple_Newtown                    222.60     212.05          6  
+  2 Koulas, Vasili      11 Marple_Newtown                    164.20     166.55          4  
+  3 Direso, Connor       9 Marple_Newtown                    157.30     144.65          3  
+  4 Zeserson, Declan     9 Strath_Haven              NP     110.15          2  
+ -- Shankweiler, Charl  12 Strath_Haven              NP         DQ        
+ 
+Event 11  Girls 100 Yard Butterfly
+===============================================================================
+              1:02.00  D1-C
+              1:08.70  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Shifflett, Ella     11 Strath_Haven              NT    1:05.09 CAL      6  
+      29.91   35.18                                                
+  2 Finn, Kierstyn      10 Marple_Newtown                   1:19.78    1:15.26          4  
+      33.94   41.32                                                
+  3 Gianolpulos, Georg  11 Strath_Haven         1:15.55    1:16.71          3  
+      35.05   41.66                                                
+  4 Cavanagh, Mallory    9 Strath_Haven              NT    1:18.13          2  
+      35.26   42.87                                                
+  5 Impriano, Madilyn   10 Marple_Newtown                   1:17.30    1:18.97          1  
+      36.59   42.38                                                
+ 
+Event 12  Boys 100 Yard Butterfly
+===============================================================================
+                56.90  D1-C
+              1:02.00  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Impriano, Luke      12 Marple_Newtown                   1:01.43    1:00.90 CAL      6  
+      28.01   32.89                                                
+  2 Detweiler, Charlie   9 Strath_Haven         1:02.63    1:02.69          4  
+      28.79   33.90                                                
+  3 Gillespie, Sean     11 Strath_Haven              NT    1:03.08          3  
+      28.82   34.26                                                
+  4 Brennan, Owen       11 Strath_Haven         1:06.74    1:04.46          2  
+      29.28   35.18                                                
+  5 Carty, Shane         9 Marple_Newtown                   1:11.67    1:11.92          1  
+      30.77   41.15                                                
+  6 Burns, Tyler        11 Marple_Newtown                   1:18.16    1:15.35        
+      33.62   41.73                                                
+ 
+Event 13  Girls 100 Yard Freestyle
+===============================================================================
+                56.20  D1-C
+                59.70  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Smith, Riley         9 Strath_Haven              NT    1:00.71          6  
+      29.05   31.66                                                
+  2 Taylor, Whitney      9 Strath_Haven         1:05.25    1:02.09          4  
+      30.07   32.02                                                
+  3 Babaian, Sella      11 Marple_Newtown                   1:04.78    1:02.72          3  
+      29.95   32.77                                                
+  4 Wicentowski, Alyse  12 Strath_Haven         1:02.14    1:04.10          2  
+      30.38   33.72                                                
+  5 Dimos, Olia         10 Marple_Newtown                        NT    1:11.36          1  
+      33.59   37.77                                                
+  6 Geranios, Lia       11 Marple_Newtown                   1:22.87    1:21.84        
+      38.49   43.35                                                
+ 
+Event 14  Boys 100 Yard Freestyle
+===============================================================================
+                51.20  D1-C
+                53.70  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Chieffo, Brian      11 Strath_Haven           51.98      51.70 CAL      6  
+      24.50   27.20                                                
+  2 Droesser, Patrick    9 Marple_Newtown                     53.31      53.85          4  
+      25.44   28.41                                                
+  3 Plunkett, Noah       9 Strath_Haven           54.26      54.19          3  
+      25.75   28.44                                                
+  4 Rose, Jasper        11 Strath_Haven              NT      56.24          2  
+      26.99   29.25                                                
+  5 Dalton, Gavin        9 Marple_Newtown                     59.75    1:00.42          1  
+      29.09   31.33                                                
+  6 Murray, Ryan        11 Marple_Newtown                   1:02.58    1:02.51        
+      30.22   32.29                                                
+ 
+Event 15  Girls 500 Yard Freestyle
+===============================================================================
+              5:32.50  D1-C
+              6:00.90  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Bergstrom, Sydney   12 Strath_Haven         5:02.34    5:17.79 D1-C     6  
+      29.35   31.93   32.17   32.32   32.24   31.97   31.94   32.19
+      32.33   31.35                                                
+  2 Snyder, Katie        9 Marple_Newtown                   5:52.84    5:57.42 CAL      4  
+      30.79   34.47   35.53   36.06   36.86   36.45   36.77   37.31
+      37.88   35.30                                                
+  3 Kelly, Jo           10 Strath_Haven         6:02.79    6:04.24          3  
+      33.07   36.90   37.04   37.15   37.08   37.28   37.14   37.10
+      36.74   34.74                                                
+  4 McCarthy, Diane     11 Marple_Newtown                   6:09.98    6:17.71          2  
+      32.62   36.12   37.82   38.78   39.01   39.60   39.27   39.07
+      38.55   36.87                                                
+  5 Spinosa, Lindsay    10 Strath_Haven         6:32.93    6:19.78          1  
+      33.04   36.70   38.57   38.89   39.17   39.11   38.92   39.15
+      38.87   37.36                                                
+ 
+Event 16  Boys 500 Yard Freestyle
+===============================================================================
+              5:07.00  D1-C
+              5:37.30  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Ivanovic, Alexande  11 Strath_Haven         5:19.93    5:14.35 CAL      6  
+      27.46   30.67   31.56   31.58   32.26   32.35   31.82   32.57
+      32.45   31.63                                                
+  2 Glancey, Dennis     12 Marple_Newtown                   5:22.97    5:35.20 CAL      4  
+      27.83   30.56   31.78   33.26   34.33   36.33   35.10   35.81
+      35.00   35.20                                                
+  3 Mahoney, Cole        9 Strath_Haven         6:20.89    6:05.51          3  
+      32.30   35.07   36.47   37.10   37.36   37.41   38.27   37.97
+      37.20   36.36                                                
+  4 Reacher, Henry      10 Strath_Haven         6:48.70    6:33.19          2  
+      33.30   37.30   39.02   40.27   41.31   41.38   41.46   40.81
+      40.42   37.92                                                
+  5 Stratton, Henry      9 Marple_Newtown                        NT    7:19.13          1  
+      37.88   42.89   43.54   44.80   46.36   46.10   46.60   43.97
+      43.73   43.26                                                
+  6 Fonseca, Bejamin    11 Marple_Newtown                   7:12.58    7:53.96        
+      39.02   45.34   46.23   47.76   49.35   47.92   50.84   50.37
+      47.97   49.16                                                
+ 
+Event 17  Girls 200 Yard Freestyle Relay
+===============================================================================
+              1:43.20  D1-C
+    School                                         Seed     Finals       Points 
+===============================================================================
+  1 Strath_Haven  'B'                                NT    1:32.99 D1-C     8  
+     1) Wicentowski, Alyse 12           2) Kersun, Sophie 11              
+     3) Wicentowski, Emma 9             4) Karn, Helen 12                 
+       29.74    31.10    15.06    17.09                                    
+  2 Strath_Haven  'A'                           1:45.49    1:52.24          4  
+     1) Caywood, Charlotte 12           2) Blackburn, Kate 11             
+     3) Shifflett, Ella 11              4) Reuther, Amelia 12             
+       30.07    27.51    27.10    27.56                                    
+  3 Marple_Newtown  'A'                         1:50.90    1:52.36          2  
+     1) Markakis, Gia 12                2) Pastris, Alexandra 12          
+     3) Finn, Kierstyn 10               4) McCarthy, Diane 11             
+       28.32    27.33    28.17    28.54                                    
+  4 Marple_Newtown  'B'                              NT    2:09.49        
+     1) Dimos, Olia 10                  2) Nakati, Ariana 10              
+     3) Geranios, Lia 11                4) Impriano, Madilyn 10           
+       32.64    33.77    33.81    29.27                                    
+  5 Strath_Haven  'C'                                NT   x2:12.88        
+     1) Orsetti, Adelaide 11            2) Yarborough, Murphy 11          
+     3) Wendt, Lillie 12                4) Karn, Lucy 10                  
+       33.65    32.27    33.61    33.35                                    
+ 
+Event 18  Boys 200 Yard Freestyle Relay
+===============================================================================
+              1:32.50  D1-C
+    School                                         Seed     Finals       Points 
+===============================================================================
+  1 Strath_Haven High School  'A'               1:34.68    1:32.18 D1-C     8  
+     1) Shankweiler, Charlie 12         2) Roberts, Ethan 12              
+     3) Hyzer, Harry 11                 4) Shifflett, Gavin 9             
+       23.33    23.28    22.85    22.72                                    
+  2 Marple_Newtown  'A'                         1:33.49    1:38.87          4  
+     1) Yeakle, Tate 11                 2) Impriano, Luke 12              
+     3) Glancey, Dennis 12              4) Droesser, Patrick 9            
+       25.72    24.58    24.43    24.14                                    
+  3 Strath_Haven High School  'B'                    NT    1:38.89          2  
+     1) Rose, Jasper 11                 2) Mancini, Mac 12                
+     3) Gillespie, Sean 11              4) Chieffo, Brian 11              
+       25.59    25.29    24.48    23.53                                    
+  4 Strath_Haven High School  'C'                    NT   x1:55.87        
+     1) Kellner, Alex 11                2) Currie, Kenny 9                
+     3) Soeiro, Devon 9                 4) Kelly, Bud 12                  
+       28.57    30.01    29.93    27.36                                    
+  5 Marple_Newtown  'B'                              NT    1:57.98        
+     1) Koulas, Vasili 11               2) Leach, Logan 9                 
+     3) Koulas, Alex 9                  4) Murray, Ryan 11                
+       25.76    32.47    31.07    28.68                                    
+ 
+Event 19  Girls 100 Yard Backstroke
+===============================================================================
+              1:02.60  D1-C
+              1:08.80  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Schofield, Abbey     9 Strath_Haven         1:12.33    1:10.30          6  
+      34.08   36.22                                                
+  2 Dimos, Olia         10 Marple_Newtown                   1:18.46    1:16.64          4  
+      37.44   39.20                                                
+  3 McManus, Caitlin    11 Strath_Haven         1:13.77    1:16.75          3  
+      37.15   39.60                                                
+  4 Seidman, Meredith   10 Strath_Haven              NT    1:24.62          2  
+      41.13   43.49                                                
+  5 Nakati, Ariana      10 Marple_Newtown                   1:24.20    1:37.49          1  
+    1:22.33   15.16                                                
+ 
+Event 20  Boys 100 Yard Backstroke
+===============================================================================
+                58.00  D1-C
+              1:03.30  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Shifflett, Gavin     9 Strath_Haven              NT      57.10 D1-C     6  
+      28.00   29.10                                                
+  2 Roberts, Ethan      12 Strath_Haven         1:00.38    1:00.37 CAL      4  
+      28.63   31.74                                                
+  3 Yeakle, Tate        11 Marple_Newtown                   1:01.79    1:01.98 CAL      3  
+      30.05   31.93                                                
+  4 DeMattei, Mikey     11 Marple_Newtown                   1:07.02    1:08.45          2  
+      32.39   36.06                                                
+  5 McManus, Bennett     9 Strath_Haven         1:15.50    1:11.54          1  
+      34.86   36.68                                                
+  6 Carty, Shane         9 Marple_Newtown                   1:16.60    1:14.22        
+      36.68   37.54                                                
+ 
+Event 21  Girls 100 Yard Breaststroke
+===============================================================================
+              1:12.00  D1-C
+              1:17.50  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Caywood, Charlotte  12 Strath_Haven         1:13.86    1:16.73 CAL      6  
+      35.92   40.81                                                
+  2 Markakis, Gia       12 Marple_Newtown                   1:18.57    1:18.41          4  
+      36.60   41.81                                                
+  3 Karpyn, Lauren      12 Strath_Haven         1:21.20    1:19.97          3  
+      36.80   43.17                                                
+  4 Pastris, Alexandra  12 Marple_Newtown                        NT    1:20.04          2  
+      37.30   42.74                                                
+  5 Montague, Kelly      9 Strath_Haven         1:24.03    1:27.21          1  
+      40.68   46.53                                                
+  6 Geranios, Lia       11 Marple_Newtown                   1:47.27    1:48.53        
+      49.10   59.43                                                
+ 
+Event 22  Boys 100 Yard Breaststroke
+===============================================================================
+              1:04.00  D1-C
+              1:10.90  CAL
+    Name              Year School                  Seed     Finals       Points 
+===============================================================================
+  1 Rice, Evan          12 Strath_Haven         1:15.89    1:10.48 CAL      6  
+      33.18   37.30                                                
+  2 Bothma, Kaden       10 Marple_Newtown                   1:10.34    1:12.26          4  
+      33.14   39.12                                                
+  3 Celebre, Emilio      9 Strath_Haven         1:15.23    1:13.29          3  
+      33.48   39.81                                                
+  4 Murphy, Sean        12 Strath_Haven         1:24.88    1:23.06          2  
+      39.10   43.96                                                
+  5 Koulas, Alex         9 Marple_Newtown                   1:25.90    1:23.12          1  
+      39.73   43.39                                                
+  6 Bassoline, Chris    11 Marple_Newtown                   1:26.36    1:23.86        
+      40.24   43.62                                                
+ 
+Event 23  Girls 400 Yard Freestyle Relay
+===============================================================================
+              3:47.00  D1-C
+    School                                         Seed     Finals       Points 
+===============================================================================
+  1 Strath_Haven  'A'                           3:43.75    3:58.50          8  
+     1) Bergstrom, Sydney 12            2) Shifflett, Ella 11             
+     3) Smith, Riley 9                  4) Blackburn, Kate 11             
+       27.48    56.90    28.63    59.59    28.89  1:01.05    29.15  1:00.96
+  2 Marple_Newtown  'A'                         4:08.50    4:16.06          4  
+     1) Snyder, Katie 9                 2) Finn, Kierstyn 10              
+     3) McCarthy, Diane 11              4) Babaian, Sella 11              
+       30.16  1:04.53    29.69  1:03.29    30.45  1:03.59    29.43  1:04.65
+  3 Strath_Haven  'B'                                NT    4:22.94          2  
+     1) Cavanagh, Mallory 9             2) Taylor, Whitney 9              
+     3) Whitehead, Cate 9               4) Hill, Lila 10                  
+       32.32  1:07.68    30.25  1:04.13    30.33  1:06.51    29.86  1:04.62
+  4 Strath_Haven  'C'                                NT   x4:56.85        
+     1) Brown, Paige 12                 2) Wendt, Lillie 12               
+     3) Seidman, Meredith 10            4) Karn, Lucy 10                  
+       32.56  1:09.22    36.28  1:16.25    35.13  1:16.05    35.52  1:15.33
+ 
+Event 24  Boys 400 Yard Freestyle Relay
+===============================================================================
+              3:23.00  D1-C
+    School                                         Seed     Finals       Points 
+===============================================================================
+  1 Marple_Newtown  'A'                         3:49.44    4:05.17          8  
+     1) DeMattei, Mikey 11              2) Bothma, Kaden 10               
+     3) Koulas, Vasili 11               4) Dalton, Gavin 9                
+       29.30  1:01.58    28.21  1:01.01    28.15    59.14    30.45  1:03.44
+  2 Marple_Newtown  'B'                              NT    4:34.36          4  
+     1) Burns, Tyler 11                 2) Stratton, Henry 9              
+     3) Carty, Shane 9                  4) Leach, Logan 9                 
+       29.90  1:04.96    33.26  1:10.59    30.88  1:04.25    36.02  1:14.56
+ -- Strath_Haven High School  'A'               3:28.85   X3:37.43        
+     1) Chieffo, Brian 11               2) Plunkett, Noah 9               
+     3) Ivanovic, Alexander 11          4) Shankweiler, Charlie 12        
+       25.02    53.16    26.00    54.44    25.69    53.58    27.27    56.25
+ -- Strath_Haven High School  'B'                    NT   X4:12.26        
+     1) Reacher, Henry 10               2) Mahoney, Cole 9                
+     3) Mancini, Mac 12                 4) Kelly, Bud 12                  
+       32.38  1:06.07    30.07  1:03.98    28.56  1:00.27    29.81  1:01.94
+ -- Strath_Haven High School  'C'                    NT   X5:05.16        
+     1) Neveln, Ibraheem 10             2) Mason, Noah 9                  
+     3) McLaughlin, Colin 11            4) Lynch, Joe 10                  
+       47.36  1:39.24    35.71  1:19.21    30.91  1:05.61    27.90  1:01.10
+ 
+                   Girls - Team Rankings - Through Event 24                    
+ 
+  1. Strath_Haven                        114   2. Marple_Newtown                       72
+ 
+                    Boys - Team Rankings - Through Event 24                     
+ 
+  1. Strath_Haven High School            106   2. Marple_Newtown                       77
