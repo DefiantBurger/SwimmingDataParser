@@ -1,0 +1,50 @@
+{% extends "base.html" %}
+{% block title %}Best Times{% endblock %}
+{% block content %}
+<h1>Best Times</h1>
+<form method="post" action="/times/?source=best">
+    {{ form.csrf_token }}
+    <p>
+        {{ form.name.label }}
+        {{ form.name(size=20) }}
+    </p>
+
+    {% if form.name.errors %}
+        <ul class="errors">
+            {% for error in form.name.errors %}
+                <li>{{ error }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    <p>
+        {{ form.gender.label }}
+        {{ form.gender() }}
+    </p>
+
+    {% if form.gender.errors %}
+        <ul class="errors">
+            {% for error in form.gender.errors %}
+                <li>{{ error }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    <p>
+        {{ form.event.label }}
+        {{ form.event() }}
+    </p>
+
+    {% if form.event.errors %}
+        <ul class="errors">
+            {% for error in form.event.errors %}
+                <li>{{ error }}</li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+
+    <p>
+        <input type="submit" value="Submit">
+    </p>
+</form>
+{% endblock %}

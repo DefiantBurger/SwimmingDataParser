@@ -15,13 +15,13 @@ req = requests.get(url)
 soup = BeautifulSoup(req.text, 'html.parser')
 
 
-def request_data():
+def request_data(years: list[int]):
     shutil.rmtree('data')
     os.mkdir('data')
 
     teams = ["HAV", "CON", "MN", "GAV", "LME", "HAR", "PNC", "UDA", "RAD", "SH", "RID", "SDC"]
-    years = ["2018", "2019", "2020", "2021", "2022"]
     urls = []
+    years = [str(y) for y in years]
     for year in years:
         for team1 in teams:
             for team2 in teams:
@@ -188,5 +188,5 @@ def sort_data():
         json.dump(swim_dict, f, indent=4)
 
 
-# request_data()
+request_data(years=[2022])
 sort_data()
