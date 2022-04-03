@@ -168,7 +168,8 @@ def sort_data():
                             try:
                                 person.events[event_name].append(placement[it + 1])
                             except IndexError:
-                                print(f'Error loading {event_name} data for {person.first_name} {person.last_name}: skipping...')
+                                print(f'Error loading {event_name} data for '
+                                      f'{person.first_name} {person.last_name}: skipping...')
                             break
 
     swim_dict = {}
